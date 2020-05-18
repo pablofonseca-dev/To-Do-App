@@ -1,0 +1,15 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "Aplicación para administrar conjuntos de tareas por hacer.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Fonseca Moncada",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "yargs": "^15.3.1"
+  }
+}
