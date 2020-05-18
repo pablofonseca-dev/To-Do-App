@@ -9,6 +9,7 @@
   "author": "Pablo Fonseca Moncada",
   "license": "MIT",
   "dependencies": {
+    "colors": "^1.4.0",
     "nodemon": "^2.0.4",
     "yargs": "^15.3.1"
   }
